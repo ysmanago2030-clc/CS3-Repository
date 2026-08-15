@@ -16,10 +16,8 @@ zodiac_sign = [
 user_year = int(input("Enter your birth year: "))
 
 if user_year >= 1900:
-    print("Your zodiac sign is :", zodiac_sign[user_year % 12])
-    
-elif user_year < 1900:
-    print("Invalid Year, it should not be earlier than 1900")
+    print("Your zodiac sign is :", zodiac_sign[(user_year - 1900) % 12])
     
 else:
-    print("Invalid Input, try again")
+    print("Invalid Year, it should not be earlier than 1900")
+    
