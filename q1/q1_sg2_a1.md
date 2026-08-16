@@ -30,7 +30,7 @@ Please list possible sub-problems:
 4. Beyond the listed observations of surfaced difficulties, an underlying factor is secretly wasting minutes. This is in the disorganization or chaos formed when the queues get too long and crowded. This results in the further need of being cramped between multiple people, discouraging purchase of meals just to avoid the inconvenience.
 
 Step 3: Define Computational Thinking Approaches
-![Image of Table](q1_sg2_a1-part3.table.png)
+![Image of Table](q1/q1_sg2_a1-part3.table.png)
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 ![Image of Flowchart](q1/q1_sg2_a1-step4.flowchart.png)
