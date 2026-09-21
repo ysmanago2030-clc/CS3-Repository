@@ -12,4 +12,4 @@ _Here are my projects:_
 
 _Here are the sample codes:_
 - [SAMPLE CODE 1 (CAR)](q1/q1_sg6_sample.code(car))
-- [SAMPLE CODE 2 (TUSOK-TUSOK)](q1/q1_sg6_sample.code(tusoktusok))
+- [SAMPLE CODE 2 (TUSOK-TUSOK)](q1/q1_sg6_sample.code.py(tusoktusok))
